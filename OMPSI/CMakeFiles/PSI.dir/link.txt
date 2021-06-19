@@ -1,2 +1,0 @@
-/usr/bin/ar qc ../lib/libPSI.a CMakeFiles/PSI.dir/src/ChaChaPermutation.cpp.o CMakeFiles/PSI.dir/src/CuckooHasher.cpp.o CMakeFiles/PSI.dir/src/OMPsiReceiver.cpp.o CMakeFiles/PSI.dir/src/OMPsiSender.cpp.o CMakeFiles/PSI.dir/src/utils.cpp.o
-/usr/bin/ranlib ../lib/libPSI.a

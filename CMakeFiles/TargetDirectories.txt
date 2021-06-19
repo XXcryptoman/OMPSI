@@ -1,8 +1,0 @@
-/home/nan/OPRF-OMPSI/CMakeFiles/rebuild_cache.dir
-/home/nan/OPRF-OMPSI/CMakeFiles/edit_cache.dir
-/home/nan/OPRF-OMPSI/OMPSI/CMakeFiles/rebuild_cache.dir
-/home/nan/OPRF-OMPSI/OMPSI/CMakeFiles/edit_cache.dir
-/home/nan/OPRF-OMPSI/OMPSI/CMakeFiles/PSI.dir
-/home/nan/OPRF-OMPSI/PSI_test/CMakeFiles/edit_cache.dir
-/home/nan/OPRF-OMPSI/PSI_test/CMakeFiles/rebuild_cache.dir
-/home/nan/OPRF-OMPSI/PSI_test/CMakeFiles/PSI_test.dir
