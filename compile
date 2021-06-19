@@ -1,21 +1,16 @@
 #!/bin/bash
-
-#cd ..
-#git clone --recursive https://github.com/osu-crypto/libOTe.git
-# cd ../libOTe
-# git add .
-# git commit -m "trash"
-# git checkout a2bc326
-# cd cryptoTools
-# git add .
-# git commit -m "trash"
-# git checkout 2607541
-# cd thirdparty/linux
-# bash all.get
-# cd ../../..
-# cmake -D ENABLE_MIRACL=ON .
-# make
-# cd ../OPRF-OMPSI
+cd ..
+git clone --recursive https://github.com/osu-crypto/libOTe.git
+cd ../libOTe
+git checkout a2bc326
+cd cryptoTools
+git checkout 2607541
+cd thirdparty/linux
+bash all.get
+cd ../../..
+cmake -D ENABLE_MIRACL=ON .
+make
+cd ../OMPSI
 cmake .  -DCMAKE_BUILD_TYPE=Release
 make
 
