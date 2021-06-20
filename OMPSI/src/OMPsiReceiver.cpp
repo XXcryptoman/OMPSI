@@ -604,11 +604,11 @@ namespace OMPSI {
 
                              
 
-                             u64 dummysentData=ByteRivseFactor*(3+mNumStash)*senderSize;  
-                             u64 dummyrecvData=ByteRivseFactor*(3+mNumStash)*senderSize; 
+                             u64 dummyrecvData=ByteRivseFactor*(3+mNumStash)*senderSize;  
+                             
                             
 	
-		                       u64 sentData = ch.getTotalDataSent()-dummysentData;
+		                       u64 sentData = ch.getTotalDataSent();
 		                       u64 recvData = ch.getTotalDataRecv()-dummyrecvData;
 		                       u64 totalData = sentData + recvData;
 

@@ -470,9 +470,7 @@ namespace OMPSI {
                               
                           
                               timer.setTimePoint("Receiver intersection finished");
-                              std::cout<< std:: endl;
-                              std::cout<<"[*****] This File is Nan Jie Hui's!!!!!![*****]"<<std:: endl;
-                              std::cout<< std:: endl;
+                             
                               std::cout << timer;
                         
                        } 
