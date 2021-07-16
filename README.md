@@ -27,4 +27,6 @@ $ ./bin/PSI_test -r 0 -ss 18 -rs 18  -ip 127.0.0.1
 
 $ ./bin/PSI_test -exp  100000
 ```
+## Reference
 
+Our project framework,  compile file,  and  CMakeLists files reference the open source project https://github.com/peihanmiao/OPRF-PSI and thanks to the contributor Peihan Miao.
